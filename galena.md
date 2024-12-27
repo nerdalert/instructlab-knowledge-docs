@@ -1,26 +1,5 @@
 # Galena Schoolhouse
 
-        - Article
-        - Talk
-            - Read
-            - Edit
-            - View history
-            - Read
-            - Edit
-            - View history
-            - What links here
-            - Related changes
-            - Upload file
-            - Special pages
-            - Permanent link
-            - Page information
-            - Cite this page
-            - Get shortened URL
-            - Download QR code
-            - Download as PDF
-            - Printable version
-            - Wikidata item
-
 |                                                       |                                                                           |
 |-------------------------------------------------------|---------------------------------------------------------------------------|
 | Galena School                                         | Galena School                                                             |
